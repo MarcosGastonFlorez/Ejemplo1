@@ -1,0 +1,13 @@
+E:\Ejemplo GIT\Ejemplo de GIT\Ejemplo de GIT\Actividad GIT\Actividad GIT\bin\Debug\Actividad GIT.exe.config
+E:\Ejemplo GIT\Ejemplo de GIT\Ejemplo de GIT\Actividad GIT\Actividad GIT\bin\Debug\Actividad GIT.exe
+E:\Ejemplo GIT\Ejemplo de GIT\Ejemplo de GIT\Actividad GIT\Actividad GIT\bin\Debug\Actividad GIT.pdb
+E:\Ejemplo GIT\Ejemplo de GIT\Ejemplo de GIT\Actividad GIT\Actividad GIT\bin\Debug\Actividad GIT.xml
+E:\Ejemplo GIT\Ejemplo de GIT\Ejemplo de GIT\Actividad GIT\Actividad GIT\obj\Debug\Actividad GIT.vbprojAssemblyReference.cache
+E:\Ejemplo GIT\Ejemplo de GIT\Ejemplo de GIT\Actividad GIT\Actividad GIT\obj\Debug\Actividad_GIT.Form1.resources
+E:\Ejemplo GIT\Ejemplo de GIT\Ejemplo de GIT\Actividad GIT\Actividad GIT\obj\Debug\Actividad_GIT.Resources.resources
+E:\Ejemplo GIT\Ejemplo de GIT\Ejemplo de GIT\Actividad GIT\Actividad GIT\obj\Debug\Actividad GIT.vbproj.GenerateResource.cache
+E:\Ejemplo GIT\Ejemplo de GIT\Ejemplo de GIT\Actividad GIT\Actividad GIT\obj\Debug\Actividad GIT.vbproj.CoreCompileInputs.cache
+E:\Ejemplo GIT\Ejemplo de GIT\Ejemplo de GIT\Actividad GIT\Actividad GIT\obj\Debug\Actividad GIT.exe
+E:\Ejemplo GIT\Ejemplo de GIT\Ejemplo de GIT\Actividad GIT\Actividad GIT\obj\Debug\Actividad GIT.xml
+E:\Ejemplo GIT\Ejemplo de GIT\Ejemplo de GIT\Actividad GIT\Actividad GIT\obj\Debug\Actividad GIT.pdb
+E:\Ejemplo GIT\Ejemplo de GIT\Ejemplo de GIT\Actividad GIT\Actividad GIT\obj\Debug\Actividad_GIT.Form2.resources
